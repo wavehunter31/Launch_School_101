@@ -1,0 +1,31 @@
+# calculator_messages.yml
+
+en:
+  welcome: "Welcome to Calculator! Enter your name:"
+  valid_name: "Make sure to enter a valid name."
+  num1: "Please enter the first number..."
+  num_error: "Hmm...that doesn't look like a valid number"
+  num2: "Please enter the second number..."
+  choose_operation: What operation would you like to perform?
+      1) add
+      2) subtract
+      3) multiply
+      4) divide
+  operation_error: "Must choose 1, 2, 3, or 4"
+  request_again: "Do you want to perform another calculation? (Y to calculate again)"
+  thank_you: "Thank you for using Calculator!"
+
+es:
+  welcome: "Welcome to Calculator! Enter your name:"
+  valid_name: "Make sure to enter a valid name."
+  num1: "Please enter the first number..."
+  num_error: "Hmm...that doesn't look like a valid number"
+  num2: "Please enter the second number..."
+  choose_operation: What operation would you like to perform?
+      1) add
+      2) subtract
+      3) multiply
+      4) divide
+  operation_error: "Must choose 1, 2, 3, or 4"
+  request_again: "Do you want to perform another calculation? (Y to calculate again)"
+  thank_you: "Thank you for using Calculator!"
